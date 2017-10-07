@@ -30,7 +30,7 @@ document.onkeyup = function (event) {
         guessesLeft = 10;
         userGuesses = [];
         console.log("Else if statement works.");
-    } else { 6
+    } else { 
         userGuesses.push(userGuess);
         guessesLeft--;
         console.log("Else statement works.");
